@@ -1,0 +1,79 @@
+# Preinstalled apps that can be uninstalled on a
+# Xiaomi Redmi Note 8 Pro
+
+cn.wps.moffice_eng - WPS Office [UNINST]
+cn.wps.xiaomi.abroad.lite - Mi Doc Viewer (Powered by WPS)
+com.alibaba.aliexpresshd - Aliexpress [UNINST]
+com.allgoritm.youla - Youla market [UNINST]
+com.android.bookmarkprovider - Bookmark Provider [UNINST]
+com.android.browser - Browser
+com.android.calendar - Calendar
+com.android.chrome - Chrome
+com.android.providers.downloads.ui - Downloads
+#com.android.soundrecorder - Sound recorder
+com.android.stk - SIM Toolkit (SIM menu) [UNINST]
+com.android.wallpaper.livepicker - Live Wallpaper Picker
+com.booking - Booking.com [UNINST]
+com.duokan.phone.remotecontroller - Mi Remote
+com.ebay.carrier - eBay Partner Attribution [UNINST]
+com.ebay.mobile - eBay [UNINST]
+com.facebook.appmanager - Facebook [UNINST]
+com.facebook.katana - Facebook [UNINST]
+com.facebook.services - Facebook [UNINST]
+com.facebook.system - Facebook [UNINST]
+com.google.android.apps.docs - Google Drive [UNINST]
+com.google.android.apps.googleassistant - Google Assistant [UNINST]
+com.google.android.apps.magazines - Google News [UNINST]
+com.google.android.apps.maps - Maps
+com.google.android.apps.photos - Google Photos [UNINST]
+com.google.android.apps.podcasts - Google Podcasts [UNINST]
+com.google.android.apps.subscriptions.red - Android One [UNINST]
+com.google.android.apps.tachyon - Duo [UNINST]
+com.google.android.apps.turbo - Device Health Services
+com.google.android.apps.wellbeing - Digital Wellbeing [UNINST]
+com.google.android.apps.youtube.music - YouTube Music [UNINST]
+com.google.android.contacts - Google contacts
+com.google.android.gm - Gmail [UNINST]
+com.google.android.googlequicksearchbox - Google (search) [UNINST]
+com.google.android.marvin.talkback - Android Accessibility Suite
+com.google.android.music - Google Play Music [UNINST]
+com.google.android.play.games - Google Play Games [UNINST]
+com.google.android.projection.gearhead - Android Auto [UNINST]
+com.google.android.syncadapters.calendar [UNINST]
+com.google.android.videos - Google TV [UNINST]
+com.google.android.youtube - YouTube
+com.google.ar.core - Google Play Services for AR
+#com.google.ar.lens - Google Lens
+#com.mi.android.globalFileexplorer - File Manager (Becomes unable to install a firmware within the 3 dots)
+com.mi.android.globalminusscreen - App Vault
+com.mi.global.bbs - Mi Community
+com.mi.global.shop - Mi Store
+com.mi.globalbrowser - Mi Browser Pro (Unable to uninstall)
+com.micredit.in - Mi Credit [UNINST]
+com.miui.analytics - Analytics
+com.miui.android.fashiongallery - Mi Wallpaper Carousel (Unable to uninstall)
+com.miui.compass - Compass
+#com.miui.fm - FM Radio
+#com.miui.fmservice - FM Radio Service
+com.miui.huanji - Mi Mover
+com.miui.hybrid - HybridAccessory
+com.miui.miservice - Services & Feedback
+com.miui.mishare.connectivity - ShareMe
+com.miui.msa.global - msa
+com.miui.newmidrive - MiDrive
+com.miui.notes - MIUI Notes
+com.miui.player - Mi Music [UNINST]
+com.miui.videoplayer - Mi Video (Unable to uninstall on some devices. Only to disable) [UNINST]
+com.miui.yellowpage - Yellow Pages
+com.netflix.partner.activation - PartnerNetflixActivation [UNINST]
+com.opera.preinstall - Opera [UNINST]
+com.quicinc.voice.activation - Qualcomm Voice Assist
+com.xiaomi.glgm - Xiaomi Games
+com.xiaomi.joyose - Joyose
+com.xiaomi.midrop - ShareMe
+com.xiaomi.mipicks - Mi Picks
+com.xiaomi.scanner - Mi Scanner (Becomes unable to scan QR codes via Camera app) [UNINST]
+com.yandex.zen - Yandex Zen [UNINST]
+com.yandex.zenkitpartnerconfig - ZenkitPartnerConfig [UNINST]
+com.zhiliaoapp.musically - TikTok [UNINST]
+ru.yandex.searchplugin - Yandex search [UNINST]
