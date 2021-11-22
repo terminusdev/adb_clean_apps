@@ -1,5 +1,10 @@
 # Preinstalled apps that can be uninstalled on a
 # Xiaomi Redmi Note 8 Pro
+#
+# App marked as [UNINST] will be uninstalled permanently!
+# Not marked apps will be disabled.
+# You can enable it later with the command:
+# pm enable <app name>
 
 cn.wps.moffice_eng - WPS Office [UNINST]
 cn.wps.xiaomi.abroad.lite - Mi Doc Viewer (Powered by WPS)
